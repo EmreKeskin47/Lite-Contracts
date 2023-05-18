@@ -1,0 +1,1 @@
+b5dd3634d40f6dc5a867655e5279f301406c80f47fd4f803a022cdf47a90aaa7  ./target/wasm32-unknown-unknown/release/cw20_stake.wasm
